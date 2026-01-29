@@ -1,6 +1,6 @@
 # José Petrucio
 
-## About me
+## Sobre mim:
 ### Sou um estudante de ADS, formado incialmente na área de elétrica e automação industrial e me joguei de cabeça no ramo de desenvolvimento de software. Atualmente tenho focado em estudar Java com Spring para desenvolvimento Web.
 
 
